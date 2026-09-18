@@ -1,19 +1,269 @@
-# 💫 About Me:
-Frontend Developer | UI/UX Enthusiast<br><br>Aspiring Frontend Developer focused on building clean, responsive, and visually engaging websites. Currently improving my skills in HTML, CSS, JavaScript, and React.js.<br><br>🛠️ Skills<br><br>HTML5 • CSS3 • JavaScript • React.js 🚧 •Python• Figma • Git • GitHub<br><br>🚀 Projects<br>TechNova Insights Clone — HTML & CSS<br>BoAt Website Clone — HTML & CSS (In Progress)<br>🎮 Fun Fact<br><br>I enjoy story-driven games and watching web series.<br><br>🎯 Goal<br><br>Become a skilled Full-Stack Developer.
+<div align="center">
 
+# 👋 Hey, I'm **Shaurya Sharma**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-sharma-4157b3430) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shauryasharmacg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaurya.sharma.cg@gmail.com) 
+### `Frontend Developer` · `AI Enthusiast` · `CSE Student`
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SHAURYASHARMACG&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SHAURYASHARMACG&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SHAURYASHARMACG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+modern+web+experiences+%F0%9F%92%BB;Exploring+AI-powered+development+%F0%9F%A4%96;Turning+ideas+into+interactive+products+%F0%9F%9A%80;Always+learning.+Always+building." alt="Typing SVG" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<br>
 
+[![GitHub](https://img.shields.io/badge/GitHub-Shauryasharmacg-181717?style=for-the-badge\&logo=github)](https://github.com/Shauryasharmacg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaurya%20Sharma-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge\&logo=vercel)](YOUR_PORTFOLIO_URL)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const shaurya = {
+    name: "Shaurya Sharma",
+    role: "Frontend Developer",
+    education: "B.Tech CSE",
+    specialization: "Artificial Intelligence",
+    currentlyLearning: ["React", "Node.js", "TypeScript"],
+    interests: [
+        "Frontend Development",
+        "AI-powered Development",
+        "UI/UX Design",
+        "Full-Stack Development"
+    ],
+    mindset: "Build → Learn → Improve → Repeat 🚀"
+};
+```
+
+I'm a **CSE student specializing in AI** and a **Frontend Developer** who enjoys turning ideas into responsive, interactive web experiences.
+
+I work primarily with **HTML, CSS, JavaScript and React**, while expanding my skills across **TypeScript, Node.js and AI-assisted development workflows**.
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python" />
+</p>
+
+### 🎨 Design & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
+</p>
+
+### 🤖 AI & Development
+
+* AI-assisted development
+* GenAI workflows
+* AI-powered web applications
+* AI-assisted UI / development workflows
+
+---
+
+# 🚀 Featured Projects
+
+## 📈 Traderz Bazaar — Share Market Watchlist Webapp
+
+**Tech:** `HTML5` `CSS3` `JavaScript` `React.js`
+
+A share-market watchlist platform built around interactive market tracking and smart features.
+
+**Key features:**
+
+* 📊 Smart Watchlist
+* 🔥 Market Heatmap
+* 💼 Portfolio & Sandbox
+* 🔔 Smart Alert Engine
+* 🤖 AI Bazaar Mentor
+* 📈 Live market-oriented interfaces
+* 🎨 Modern dashboard UI
+
+🔗 **[Live Demo](YOUR_TRADERZ_LIVE_DEMO_URL)**
+🔗 **[Source Code](YOUR_TRADERZ_GITHUB_URL)**
+
+---
+
+## 🤖 ResumeAI — AI-Powered Resume Generator
+
+**Tech:** `HTML5` `CSS3` `JavaScript` `React.js` `Node.js`
+
+An AI-powered resume builder designed to help users create and improve professional resumes.
+
+**Key features:**
+
+* ✨ AI content enhancement
+* 🎯 ATS resume scoring
+* 📝 Job description matching
+* 📄 PDF export
+* 🖼️ Multiple A4 resume templates
+* ⚡ Real-time preview
+
+🔗 **[Live Demo](YOUR_RESUME_AI_LIVE_DEMO_URL)**
+🔗 **[Source Code](YOUR_RESUME_AI_GITHUB_URL)**
+
+---
+
+## 🎟️ BAWAL Events — Event Experience Platform
+
+**Tech:** `HTML5` `CSS3` `JavaScript` `React.js` `Node.js`
+
+A modern event discovery and registration platform created for **BAWAL**, focused on making event experiences easy to discover, register for and manage.
+
+**Key features:**
+
+* 🎉 Upcoming experiences
+* 📍 Detailed event pages
+* 📝 User registration
+* 💳 Payment workflow
+* 🎫 Digital ticketing
+* 🤝 Sponsors & partners
+* ❓ FAQs
+* 📱 Responsive experience
+
+🔗 **[Live Website](YOUR_BAWAL_LIVE_URL)**
+🔗 **[Source Code](YOUR_BAWAL_GITHUB_URL)**
+
+---
+
+## 🛒 Amazon Website Clone
+
+**Tech:** `HTML5` `CSS3` `JavaScript`
+
+A responsive Amazon-inspired e-commerce interface recreating key sections of the shopping experience.
+
+**Includes:**
+
+* Navigation
+* Product listings
+* Categories
+* Promotions
+* Responsive UI
+
+🔗 **[Live Demo](YOUR_AMAZON_CLONE_URL)**
+🔗 **[Source Code](YOUR_AMAZON_CLONE_GITHUB_URL)**
+
+---
+
+## 🎧 boAt Website Clone
+
+**Tech:** `HTML5` `CSS3`
+
+A frontend recreation of the boAt website focused on responsive UI and modern product presentation.
+
+**Includes:**
+
+* Navigation
+* Promotional banners
+* Product cards
+* Categories
+* Promotions
+
+🔗 **[Source Code](YOUR_BOAT_CLONE_GITHUB_URL)**
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shauryasharmacg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shauryasharmacg&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shauryasharmacg&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 My Contributions
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> ⚠️ To activate the snake animation, replace `YOUR_USERNAME` with your GitHub username and configure the corresponding GitHub Action.
+
+---
+
+# 📈 Activity
+
+<div align="center">
+
+[![Shaurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shauryasharmacg\&theme=tokyo-night\&hide_border=true)](https://github.com/Shauryasharmacg)
+
+</div>
+
+---
+
+# 🎯 Currently Exploring
+
+```text
+React.js
+   ↓
+TypeScript
+   ↓
+Node.js
+   ↓
+Full-Stack Development
+   ↓
+AI-Powered Applications
+```
+
+I'm continuously exploring how **AI can improve the way modern web applications are designed and developed.**
+
+---
+
+# 🧠 My Development Philosophy
+
+> **"Don't just learn the technology. Build something with it."**
+
+I believe the best way to learn development is by actually building, breaking, debugging and improving real projects.
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+If you're interested in **web development, AI, UI/UX or building cool products**, feel free to connect.
+
+<br>
+
+<a href="https://github.com/Shauryasharmacg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building today. Learning tomorrow. Creating what's next.
+
+<img src="https://komarev.com/ghpvc/?username=Shauryasharmacg&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+</div>
